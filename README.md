@@ -1,4 +1,3 @@
-<img width="972" height="871" alt="Capture d&#39;écran 2026-04-26 005615" src="https://github.com/user-attachments/assets/d170944a-116b-49de-ad29-97666ff566fe" />
 # Rapport de Projet — integrationWeb
 
 > Projet d'apprentissage Symfony 7.4 | PHP 8.2 | Doctrine ORM | PHPUnit 11.5
@@ -71,8 +70,6 @@ composer install
 ```bash
 symfony server:start
 ```
-<img width="677" height="613" alt="Capture d&#39;écran 2026-04-26 010040" src="https://github.com/user-attachments/assets/aa837807-2391-4ad4-b85d-2fab9792339a" />
-
 <img width="972" height="871" alt="Capture d&#39;écran 2026-04-26 005615" src="https://github.com/user-attachments/assets/5fd924a8-27d1-4b94-8255-15bb637174ea" />
 
 L'application est accessible sur **[http://localhost:8000](http://localhost:8000)**.
