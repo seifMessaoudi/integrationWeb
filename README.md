@@ -60,7 +60,7 @@ Avant de commencer, assurez-vous d'avoir installé :
 ### Étape 1 — Cloner et installer les dépendances
 
 ```bash
-git clone <url-du-projet> integrationWeb
+git clone [<url-du-projet> integrationWeb](https://github.com/seifMessaoudi/integrationWeb.git)
 cd integrationWeb
 composer install
 ```
