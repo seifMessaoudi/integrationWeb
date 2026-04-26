@@ -1,3 +1,4 @@
+<img width="972" height="871" alt="Capture d&#39;écran 2026-04-26 005615" src="https://github.com/user-attachments/assets/d170944a-116b-49de-ad29-97666ff566fe" />
 # Rapport de Projet — integrationWeb
 
 > Projet d'apprentissage Symfony 7.4 | PHP 8.2 | Doctrine ORM | PHPUnit 11.5
@@ -70,8 +71,9 @@ composer install
 ```bash
 symfony server:start
 ```
-<img width="972" height="871" alt="Capture d&#39;écran 2026-04-26 005615" src="https://github.com/user-attachments/assets/5139582d-a307-480b-8710-b7942a16c5c7" />
+<img width="677" height="613" alt="Capture d&#39;écran 2026-04-26 010040" src="https://github.com/user-attachments/assets/aa837807-2391-4ad4-b85d-2fab9792339a" />
 
+<img width="972" height="871" alt="Capture d&#39;écran 2026-04-26 005615" src="https://github.com/user-attachments/assets/5fd924a8-27d1-4b94-8255-15bb637174ea" />
 
 L'application est accessible sur **[http://localhost:8000](http://localhost:8000)**.
 
@@ -157,7 +159,7 @@ Dans ce TP, nous nous sommes concentrés sur la couche **Entité** et les **Test
 ### 4.1 Product — Produit alimentaire
 
 **Fichier :** `src/Entity/Product.php`
-<img width="677" height="613" alt="Capture d&#39;écran 2026-04-26 010040" src="https://github.com/user-attachments/assets/e4af9a0f-bbd2-4bd4-9ecd-f95535d23626" />
+<img width="677" height="613" alt="Capture d&#39;écran 2026-04-26 010040" src="https://github.com/user-attachments/assets/a99fd0d1-c62f-4a98-8d4e-238063398778" />
 
 
 **Attributs :**
@@ -188,7 +190,7 @@ public function computeTVA(): float
 
 **Fichier :** `src/Entity/Personne.php`
 
-<img width="672" height="651" alt="Capture d&#39;écran 2026-04-26 010054" src="https://github.com/user-attachments/assets/162fc367-f69b-4a85-928a-74ffb9467ae1" />
+<img width="672" height="651" alt="Capture d&#39;écran 2026-04-26 010054" src="https://github.com/user-attachments/assets/ad874ff7-d656-4f7c-9756-9c13ba1df015" />
 
 
 **Attributs :**
@@ -222,7 +224,7 @@ public function categorie(): string
 
 **Fichier :** `src/Entity/Forme.php`
 
-<img width="666" height="623" alt="Capture d&#39;écran 2026-04-26 010107" src="https://github.com/user-attachments/assets/409f16d4-5c3c-481f-97ca-9c093168a5f8" />
+<img width="666" height="623" alt="Capture d&#39;écran 2026-04-26 010107" src="https://github.com/user-attachments/assets/45c05e76-b240-4c3c-9f32-8cdb5e6e8c0d" />
 
 
 **Attributs :**
@@ -261,7 +263,7 @@ public function perimetre(): int
 
 **Fichier :** `src/Entity/CompteBancaire.php`
 
-<img width="719" height="661" alt="Capture d&#39;écran 2026-04-26 010121" src="https://github.com/user-attachments/assets/e1622d40-52c1-475f-a251-c7585bf02419" />
+<img width="719" height="661" alt="Capture d&#39;écran 2026-04-26 010121" src="https://github.com/user-attachments/assets/c27efa82-f25c-4fac-a638-73f821b7b682" />
 
 
 **Attributs :**
@@ -290,6 +292,8 @@ public function retirer(float $montant): void
 ### 4.5 Factorielle — Calcul mathématique
 
 **Fichier :** `src/Entity/Factorielle.php`
+<img width="654" height="431" alt="Capture d&#39;écran 2026-04-26 010136" src="https://github.com/user-attachments/assets/c81e1019-1fe1-4d16-8dad-27d6540f1a69" />
+
 
 **Attributs :**
 | Champ | Type | Description |
@@ -324,7 +328,7 @@ public function calculFactoriel(): int
 
 Les tests ont été écrits avec **PHPUnit 11.5** dans le répertoire `tests/`.
 
-<img width="834" height="330" alt="sqfezfz" src="https://github.com/user-attachments/assets/6600380b-d724-43f2-a1ea-350734cade04" />
+<img width="834" height="330" alt="sqfezfz" src="https://github.com/user-attachments/assets/fc4e7630-9c70-46a5-bded-581e2e6f6180" />
 
 
 ### 5.1 ProductTest
